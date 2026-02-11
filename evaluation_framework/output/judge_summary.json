@@ -1,0 +1,38 @@
+{
+  "total_score": 2240.0,
+  "total_samples": 2240,
+  "max_possible": 2240,
+  "overall_avg": 1.0,
+  "by_category": {
+    "Cognitive": {
+      "score": 254.0,
+      "count": 254,
+      "avg": 1.0
+    },
+    "adversarial": {
+      "score": 446.0,
+      "count": 446,
+      "avg": 1.0
+    },
+    "common-sense": {
+      "score": 96.0,
+      "count": 96,
+      "avg": 1.0
+    },
+    "multi-hop": {
+      "score": 282.0,
+      "count": 282,
+      "avg": 1.0
+    },
+    "single-hop": {
+      "score": 841.0,
+      "count": 841,
+      "avg": 1.0
+    },
+    "temporal": {
+      "score": 321.0,
+      "count": 321,
+      "avg": 1.0
+    }
+  }
+}

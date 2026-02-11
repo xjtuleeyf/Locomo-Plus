@@ -1,0 +1,17 @@
+# Local API config (copy from env.local.sh.example and add your keys)
+evaluation_framework/scripts/env.local.sh
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
