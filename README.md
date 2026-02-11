@@ -76,7 +76,6 @@ If you use Locomo-Plus in your work, please cite:
 }
 ```
 
-(Update with final citation when the paper is published.)
 
 ## License
 
