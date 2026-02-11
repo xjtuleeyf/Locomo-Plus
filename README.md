@@ -69,11 +69,12 @@ If you use Locomo-Plus in your work, please cite:
 
 ```bibtex
 @article{locomo-plus-arr2026,
-  title     = {Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents},
-  journal   = {Annual Meeting of the Association for Computational Linguistics (ARR)},
-  year      = {2026},
-  month     = {January}
+  title   = {Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents},
+  journal = {ACL Rolling Review (ARR)},
+  year    = {2026},
+  note    = {Preprint under review}
 }
+
 ```
 
 
