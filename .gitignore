@@ -1,3 +1,7 @@
+# Large generated data (run unified_input.py to regenerate)
+data/unified_input_samples.json
+data/unified_input_samples_v2.json
+
 # Local API config (copy from env.local.sh.example and add your keys)
 evaluation_framework/scripts/env.local.sh
 
