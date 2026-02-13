@@ -68,11 +68,14 @@ See [generation_pipeline/README.md](generation_pipeline/README.md) for cue dialo
 If you use Locomo-Plus in your work, please cite:
 
 ```bibtex
-@article{locomo-plus-arr2026,
-  title   = {Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents},
-  journal = {ACL Rolling Review (ARR)},
-  year    = {2026},
-  note    = {Preprint under review}
+@misc{li2026locomoplusbeyondfactualcognitivememory,
+      title={Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents}, 
+      author={Yifei Li and Weidong Guo and Lingling Zhang and Rongman Xu and Muye Huang and Hui Liu and Lijiao Xu and Yu Xu and Jun Liu},
+      year={2026},
+      eprint={2602.10715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.10715}, 
 }
 
 ```
